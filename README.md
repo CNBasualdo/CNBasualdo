@@ -20,6 +20,15 @@
 </p>
 <br>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,docker,postgres,github,html,js,py,react,vscode,kubernetes&perline=14" />
+  </a>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,docker,postgres,github,html,js,py,react,vscode,kubernetes&perline=14" />
+  </a>
+</p>
+
 <hr width="90%" >
 
 <br>
