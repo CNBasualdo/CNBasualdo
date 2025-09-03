@@ -6,14 +6,14 @@
 
 <hr width="90%" >
 <pre>
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+Hola, mi nombre es Carlos Nicolás Basualdo, soy de la localidad de Serodino. 
+Cuento con una Tecnicatura en Desarrollo de Software, y me he especializado principalmente en el desarrollo web.
+Me apasiona especialmente el Front-End, aunque también poseo conocimientos en Back-End,
+lo que me permite desenvolverme de manera integral en proyectos web.
+Si bien todavía no tengo experiencia laboral formal, realizo proyectos personales
+para seguir aprendiendo, perfeccionando mis habilidades y explorando nuevas tecnologías.
+
+  <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">Descarga mi CV</a>
 </pre>
 <hr>
   
