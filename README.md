@@ -1,7 +1,7 @@
 <img src="https://github.com/CNBasualdo/CNBasualdo/blob/main/GitBanner%20(2).png">
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&color=03AC4FFF&center=true&vCenter=true&width=600&height=100&lines=Espcializacion;DesarrolladorFrontEnd"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&color=03AC4FFF&center=true&vCenter=true&width=600&height=100&lines=Espcialidad;Desarrollado+FrontEnd"></a>
 </p>
 
 <hr width="90%" >
