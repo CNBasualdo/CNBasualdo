@@ -15,25 +15,32 @@ para seguir aprendiendo, perfeccionando mis habilidades y explorando nuevas tecn
 
   <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">Descarga mi CV</a>
 </pre>
-<hr>
+<hr width="90%" >
   
-<h4> Lenguajes</h4>
+<h2> Lenguajes</h2>
   <p align="center">
-    <a href="https://skillicons.dev">
+    <a >
       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,py,django,git," />
     </a>
   </p>
 
-<h4>Herramientas</h4>
+<h2>Herramientas</h2>
   <p align="center">
-    <a href="https://skillicons.dev">
+    <a >
       <img src="https://skillicons.dev/icons?i=vscode,github,postgres,docker," />
     </a>
   </p>
 
 <br>
 
-
 <hr width="90%" >
 
+<h2>Contacto</h2>
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=linkedin" /> 
+      <img src="https://skillicons.dev/icons?i=gmail" />
+    </p>
+
+
+<hr width="90%" >
 
