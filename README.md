@@ -36,10 +36,10 @@ para seguir aprendiendo, perfeccionando mis habilidades y explorando nuevas tecn
 <hr width="90%" >
 
 <h2>Contacto</h2>
-    <p align="center">
-      <img src="https://skillicons.dev/icons?i=linkedin" /> 
-      <img src="https://skillicons.dev/icons?i=gmail" />
-    </p>
+  
+  <a href="https://www.linkedin.com/in/nicolasbasualdo233/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a>
+  <a> <img src="https://skillicons.dev/icons?i=vite" /> </a>
+
 
 
 <hr width="90%" >
