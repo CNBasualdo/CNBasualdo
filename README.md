@@ -20,7 +20,7 @@ para seguir aprendiendo, perfeccionando mis habilidades y explorando nuevas tecn
 <h2> Lenguajes</h2>
   <p align="center">
    
-  <a><img src="https://skillicons.dev/icons?i=html"/>Html</a>
+  <img src="https://skillicons.dev/icons?i=html"/>
       <img src="https://skillicons.dev/icons?i=css"/>
       <img src="https://skillicons.dev/icons?i=bootstrap"/>
       <img src="https://skillicons.dev/icons?i=js"/>
