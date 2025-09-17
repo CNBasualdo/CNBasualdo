@@ -43,18 +43,23 @@ para seguir aprendiendo, perfeccionando mis habilidades y explorando nuevas tecn
 <hr width="90%" >
 
 <h2>Contacto</h2>
-  <p aling="center"> 
- 
-  </p>
-
 
 <pre>
-  <p align="right">
-    <img src="https://github.com/CNBasualdo/CNBasualdo/blob/main/icono9.png">
-  </p>
 
+  
+  
+    <img align="right" src="https://github.com/CNBasualdo/CNBasualdo/blob/main/icono9.png">
+  
+ hola mundo actualmente estyoy budasdfjdasdjfnasdjfnsdafnsdafasdf
+  
+  
+  
+  
+  
+  
+  
   <p align="center">
-      <a href="https://www.linkedin.com/in/nicolasbasualdo233/"><img src="https://skillicons.dev/icons?i=linkedin"/></a> <a><img src="https://skillicons.dev/icons?i=vite" /></a>
+      <a href="https://www.linkedin.com/in/nicolasbasualdo233/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>       <a><img src="https://skillicons.dev/icons?i=vite" /></a>
   </p>
 
 </pre>
