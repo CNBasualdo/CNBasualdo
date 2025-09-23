@@ -45,23 +45,18 @@ para seguir aprendiendo, perfeccionando mis habilidades y explorando nuevas tecn
 <h2>Contacto</h2>
 
 <pre>
+    
+    <h3 align="center">Actualmente me encuentro en la búsqueda de nuevas oportunidades laborales.</h3> 
+    <h4>  Ante cualquier consulta, pueden contactarme a través
+      <img align="right"  src="https://github.com/CNBasualdo/CNBasualdo/blob/main/icono9.png">
+  de mi página web o mediante mi perfil en la red social LinkedIn.</h4>
 
-  
-  
-    <img align="right" src="https://github.com/CNBasualdo/CNBasualdo/blob/main/icono9.png">
-  
- hola mundo actualmente estyoy budasdfjdasdjfnasdjfnsdafnsdafasdf
-  
-  
-  
-  
-  
+
   
   
   <p align="center">
       <a href="https://www.linkedin.com/in/nicolasbasualdo233/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>       <a><img src="https://skillicons.dev/icons?i=vite" /></a>
   </p>
-
 </pre>
   
 
