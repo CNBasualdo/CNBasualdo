@@ -17,7 +17,7 @@ para seguir aprendiendo, perfeccionando mis habilidades y explorando nuevas tecn
 </pre>
 <hr width="90%" >
   
-<h2> Lenguajes</h2>
+<h2>Tecnologias</h2>
   <p align="center">
    
   <img src="https://skillicons.dev/icons?i=html"/>
