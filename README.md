@@ -25,46 +25,73 @@ Técnico Superior en Desarrollo de Software, orientado al desarrollo web.
 
 ---
 
+
+
+
+
+
+
+                                                              |
+
+
+
 ## 🚀 Proyectos destacados
 
-| 🎬 **CineFamily**                                                                                                                                                           |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Aplicación web para la gestión y reserva de entradas de cine. Incluye funciones, salas, selección de asientos, reservas, carrito de snacks y generación de entradas en PDF. |
-| **Tecnologías:** Django · React · PostgreSQL · Docker                                                                                                                       |
-| [Ver repositorio de CineFamily →](https://github.com/CNBasualdo/CineFamily)                                                                                                 |
+### 🎬 CineFamily
 
-| 🛍️ **404Shop**                                                                                                                         |
-| :------------------------------------------------------------------------------------------------------------------------------------- |
-| Tienda online de indumentaria con catálogo, filtros, detalle de productos, variantes de talles, control de stock y carrito de compras. |
-| **Tecnologías:** Django REST Framework · React · PostgreSQL · Docker                                                                   |
-| [Ver repositorio de 404Shop →](https://github.com/CNBasualdo/404Shop)                                                                  |
+![Banner de CineFamily](https://github.com/CNBasualdo/CineFamily/blob/main/assets/BannerReadme.png)
+
+Aplicación web para la gestión y reserva de entradas de cine. Incluye funciones, salas, selección de asientos, reservas, carrito de snacks y generación de entradas en PDF.
+
+**Tecnologías:** Django · React · PostgreSQL · Docker
+
+<p align="center">
+  <a href="https://github.com/CNBasualdo/CineFamily">Ver repositorio de CineFamily →</a>
+</p>
 
 ---
 
+### 🛍️ 404Shop
+
+![Banner de 404Shop](https://github.com/CNBasualdo/404Shop/blob/master/docs/screenshots/Banne404Shop.png)
+
+Tienda online de indumentaria con catálogo, filtros, detalle de productos, variantes de talles, control de stock y carrito de compras.
+
+**Tecnologías:** Django REST Framework · React · PostgreSQL · Docker
+
+<p align="center">
+  <a href="https://github.com/CNBasualdo/404Shop">Ver repositorio de 404Shop →</a>
+</p>
+
+---
+
+
+
+
+---
 
 ## 📫 Contacto
 
 Estoy abierto a oportunidades laborales y a conectar con personas del mundo del desarrollo de software.
 
 <div align="center">
-  <a href="https://portfolio-c-nicolas-basualdo.vercel.app/">
-    <img src="./logo.png" width="55" alt="Portafolio" />
+  <a href="https://portfolio-c-nicolas-basualdo.vercel.app/" style="display:inline-block; width:120px; text-align:center; vertical-align:top; margin:0 12px;">
+    <img src="./logo.png" width="55" height="55" alt="Portafolio" />
     <br>
     <strong>Portafolio</strong>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/carlosnbasualdo233/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="55" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/carlosnbasualdo233/" style="display:inline-block; width:120px; text-align:center; vertical-align:top; margin:0 12px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="55" height="55" alt="LinkedIn" />
     <br>
     <strong>LinkedIn</strong>
   </a>
 </div>
 
-<br>
-
 <p align="center">
   <sub><i>Gracias por visitar mi perfil.</i></sub>
 </p>
+
+
 
 ---
 
