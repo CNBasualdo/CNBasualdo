@@ -24,17 +24,7 @@ Técnico Superior en Desarrollo de Software, orientado al desarrollo web.
 | ![Frontend](https://skillicons.dev/icons?i=html,css,js,react,bootstrap) | ![Backend](https://skillicons.dev/icons?i=python,django,postgres) | ![Herramientas](https://skillicons.dev/icons?i=git,github,docker,vscode) |
 
 ---
-
-
-
-
-
-
-
-                                                              |
-
-
-
+                                                         
 ## 🚀 Proyectos destacados
 
 ### 🎬 CineFamily
