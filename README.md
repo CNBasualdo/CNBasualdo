@@ -65,31 +65,31 @@ Tienda online de indumentaria con catálogo, filtros, detalle de productos, vari
 
 ---
 
-
-
-
----
-
 ## 📫 Contacto
 
 Estoy abierto a oportunidades laborales y a conectar con personas del mundo del desarrollo de software.
 
-<div align="center">
-  <a href="https://portfolio-c-nicolas-basualdo.vercel.app/" style="display:inline-block; width:120px; text-align:center; vertical-align:top; margin:0 12px;">
-    <img src="./logo.png" width="55" height="55" alt="Portafolio" />
-    <br>
-    <strong>Portafolio</strong>
-  </a>
-  <a href="https://www.linkedin.com/in/carlosnbasualdo233/" style="display:inline-block; width:120px; text-align:center; vertical-align:top; margin:0 12px;">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="55" height="55" alt="LinkedIn" />
-    <br>
-    <strong>LinkedIn</strong>
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <a href="https://portfolio-c-nicolas-basualdo.vercel.app/">
+        <img src="./logo.png" width="70" height="70" alt="Portafolio" />
+        <br>
+        <strong>Portafolio</strong>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://www.linkedin.com/in/carlosnbasualdo233/">
+        <img src="https://skillicons.dev/icons?i=linkedin"  alt="LinkedIn" />
+        <br>
+        <strong>LinkedIn</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <sub><i>Gracias por visitar mi perfil.</i></sub>
-</p>
+<br>
+
 
 
 
