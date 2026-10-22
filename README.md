@@ -1,64 +1,75 @@
-<img src="https://github.com/CNBasualdo/CNBasualdo/blob/main/GitBanner%20(2).png">
+ <img src="https://github.com/CNBasualdo/CNBasualdo/blob/main/githubBanner.png" />
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&color=03AC4FFF&center=true&vCenter=true&width=600&height=100&lines=Espcialidad;Desarrollado+FrontEnd"></a>
-</p>
 
-<hr width="90%" >
-<pre>
-Hola, mi nombre es Carlos Nicolás Basualdo, soy de la localidad de Serodino. 
-Cuento con una Tecnicatura en Desarrollo de Software, y me he especializado principalmente en el desarrollo web.
-Me apasiona especialmente el Front-End, aunque también poseo conocimientos en Back-End,
-lo que me permite desenvolverme de manera integral en proyectos web.
-Si bien todavía no tengo experiencia laboral formal, realizo proyectos personales
-para seguir aprendiendo, perfeccionando mis habilidades y explorando nuevas tecnologías.
+# ¡Hola! Soy Carlos Nicolás Basualdo 👋
 
-  <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">Descarga mi CV</a>
-</pre>
-<hr width="90%" >
-  
-<h2>Tecnologias</h2>
-  <p align="center">
-   
-  <img src="https://skillicons.dev/icons?i=html"/>
-      <img src="https://skillicons.dev/icons?i=css"/>
-      <img src="https://skillicons.dev/icons?i=bootstrap"/>
-      <img src="https://skillicons.dev/icons?i=js"/>
-      <img src="https://skillicons.dev/icons?i=react"/>
-      <img src="https://skillicons.dev/icons?i=py"/>
-      <img src="https://skillicons.dev/icons?i=django"/>
-      <img src="https://skillicons.dev/icons?i=git"/>
-  
-  </p>
+### JUNIOR SOFTWARE DEVELOPER
 
-<h2>Herramientas</h2>
-  <p align="center">
-    <a >
-      <img src="https://skillicons.dev/icons?i=vscode,github,postgres,docker," />
-    </a>
-  </p>
+Técnico Superior en Desarrollo de Software, orientado al desarrollo web.
+
+---
+
+## 👨‍💻 Sobre mí
+
+|                                                                                                                                                                                                                                                                                                                                                                  |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Me interesa especialmente el desarrollo web, tanto en el frontend como en el backend. Trabajo en proyectos personales para aplicar mis conocimientos, mejorar mis habilidades y seguir aprendiendo nuevas tecnologías. Actualmente, busco mi **primera oportunidad laboral en desarrollo de software**, donde pueda aportar, aprender y crecer profesionalmente. |
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+|                              **Frontend**                               |                   **Backend y bases de datos**                    |                             **Herramientas**                             |
+| :---------------------------------------------------------------------: | :---------------------------------------------------------------: | :----------------------------------------------------------------------: |
+| ![Frontend](https://skillicons.dev/icons?i=html,css,js,react,bootstrap) | ![Backend](https://skillicons.dev/icons?i=python,django,postgres) | ![Herramientas](https://skillicons.dev/icons?i=git,github,docker,vscode) |
+
+---
+
+## 🚀 Proyectos destacados
+
+| 🎬 **CineFamily**                                                                                                                                                           |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Aplicación web para la gestión y reserva de entradas de cine. Incluye funciones, salas, selección de asientos, reservas, carrito de snacks y generación de entradas en PDF. |
+| **Tecnologías:** Django · React · PostgreSQL · Docker                                                                                                                       |
+| [Ver repositorio de CineFamily →](https://github.com/CNBasualdo/CineFamily)                                                                                                 |
+
+| 🛍️ **404Shop**                                                                                                                         |
+| :------------------------------------------------------------------------------------------------------------------------------------- |
+| Tienda online de indumentaria con catálogo, filtros, detalle de productos, variantes de talles, control de stock y carrito de compras. |
+| **Tecnologías:** Django REST Framework · React · PostgreSQL · Docker                                                                   |
+| [Ver repositorio de 404Shop →](https://github.com/CNBasualdo/404Shop)                                                                  |
+
+---
+
+
+## 📫 Contacto
+
+Estoy abierto a oportunidades laborales y a conectar con personas del mundo del desarrollo de software.
+
+<div align="center">
+  <a href="https://portfolio-c-nicolas-basualdo.vercel.app/">
+    <img src="./logo.png" width="55" alt="Portafolio" />
+    <br>
+    <strong>Portafolio</strong>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/carlosnbasualdo233/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="55" alt="LinkedIn" />
+    <br>
+    <strong>LinkedIn</strong>
+  </a>
+</div>
 
 <br>
 
-<hr width="90%" >
+<p align="center">
+  <sub><i>Gracias por visitar mi perfil.</i></sub>
+</p>
 
-<h2>Contacto</h2>
+---
 
-<pre>
-    
-    <h3 align="center">Actualmente me encuentro en la búsqueda de nuevas oportunidades laborales.</h3> 
-    <h4>  Ante cualquier consulta, pueden contactarme a través
-      <img align="right"  src="https://github.com/CNBasualdo/CNBasualdo/blob/main/icono9.png">
-  de mi página web o mediante mi perfil en la red social LinkedIn.</h4>
-
-
-  
-  
-  <p align="center">
-      <a href="https://www.linkedin.com/in/nicolasbasualdo233/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>       <a><img src="https://skillicons.dev/icons?i=vite" /></a>
-  </p>
-</pre>
-  
-
-<hr width="90%" >
-
+<p align="center">
+  <img src="https://github.com/CNBasualdo/CNBasualdo/blob/main/avatar.png" alt="avatar" width="90" />
+  <br>
+  <sub><i>Gracias por visitar mi perfil.</i></sub>
+</p>
